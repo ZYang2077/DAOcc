@@ -12,6 +12,7 @@ This is the official implementation of DAOcc. DAOcc is a novel multi-modal occup
 ![](figs/overview.jpg)
 
 ## News
+* **2026-07-12**: We release the code and model of [DAOccV2](https://github.com/ZYang2077/DAOccV2), achieving **56.47 mIoU** and **50.4 RayIoU** on the NuScene-Occ3D dataset. 🚀
 * **2025-09-09**: DAOcc is accepted to **TCSVT** — cue the confetti! 🎉
 * **2025-07-20**: We have open-sourced the TensorRT inference code for DAOcc, achieving **54.25 mIoU** at **104.9 FPS**. [Check it out here](https://github.com/AlphaPlusTT/CUDA-DAOcc).
 * **2025-07-11**: DAOcc achieved 54.33 mIoU on Occ3D-nuScenes without EMA.
